@@ -1,0 +1,12 @@
+div{
+    width:370px;
+    margin:50px auto;
+    font-size:1.1em;
+}
+#cal{
+    width:70px;
+    margin-left:57px;
+}
+input label{
+    margin:5px 0;
+}
